@@ -283,6 +283,10 @@ a {
     padding: 1rem;
 }
 
+.item-projects_link {
+    color: var(--primary-color);
+}
+
 .item-projects::after {
     content: '';
     position: absolute;

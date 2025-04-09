@@ -3,8 +3,8 @@ export const projects = [
       id: 1,
       name: 'Spotify',
       status: 'Desenvolvido',
-      image: '../public/assets/images/projects/01.png',
-      image_mobile: '../public/assets/images/projects/01-mobile.png',
+      image: '../assets/images/projects/01.png',
+      image_mobile: '../assets/images/projects/01-mobile.png',
       link: 'https://projetospotify-i2bu.onrender.com/',
       description: `Este projeto consiste em uma réplica do Spotify, desenvolvida com o objetivo de praticar e consolidar conhecimentos em desenvolvimento web.<br>
       A ideia foi reproduzir a interface e funcionalidades básicas da plataforma de streaming de música, aplicando conceitos modernos de front-end e back-end.<br><br>
@@ -23,8 +23,8 @@ export const projects = [
         id: 2,
         name: 'Concessionária',
         status: 'Em desenvolvimento',
-        image: '../public/assets/images/projects/02.png',
-        image_mobile: '../public/assets/images/projects/02-mobile.png',
+        image: '../assets/images/projects/02.png',
+        image_mobile: '../assets/images/projects/02-mobile.png',
         link: '',
         description: `Este projeto consiste em uma réplica do Spotify, desenvolvida com o objetivo de praticar e consolidar conhecimentos em desenvolvimento web.<br>
         A ideia foi reproduzir a interface e funcionalidades básicas da plataforma de streaming de música, aplicando conceitos modernos de front-end e back-end.<br><br>

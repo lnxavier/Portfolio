@@ -19,8 +19,8 @@ const Contact = () => {
             <a className='btn' href="https://wa.me/5547992880006">ENTRAR EM CONTATO</a>
             <div className='contact_footer'>
                 <div className='footer_seta'>
-                    <img src='../public/assets/images/seta.png' alt="" />
-                    <img src='../public/assets/images/seta.png' alt="" />
+                    <img src='../assets/images/seta.png' alt="" />
+                    <img src='../assets/images/seta.png' alt="" />
                 </div>
                 <p onClick={scrollToTop} className='back-to-top'>VOLTAR PARA O TOPO</p>
                 <div className='content_icons'>

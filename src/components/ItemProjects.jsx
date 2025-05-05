@@ -16,7 +16,7 @@ const ItemProjects = ({id, name, status, image, image_mobile, link, github, desc
             ))}
           </div>
           <div className='item-projects_btns'>
-            <a className='item-projects_btn' href={link}>Vizualizar</a>
+            <a className='item-projects_btn' href={link}>Visualizar</a>
             <a className='item-projects_btn' href={github}>GitHub</a>
           </div>
       </div>
